@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>facebook2</label>
+	</settings>
+	<users>
+		<user>
+			<path>facebook2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>facebook2\facebook2.jcp</path>
+		</project>
+	</projects>
+</workspace>
